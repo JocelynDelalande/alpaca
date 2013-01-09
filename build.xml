@@ -73,6 +73,7 @@
         <file name="views/TableView.js"/>
         <file name="views/MobileView.js"/>
         <file name="views/LayoutView.js"/>
+        <file name="views/InlineView.js"/>
 
         <file name="View.js"/>
 
@@ -117,6 +118,7 @@
                 <file name="Alpaca.js"/>
                 <file name="views/DefaultView.js"/>
                 <file name="views/ListView.js"/>
+				<file name="views/InlineView.js"/>
         	<file name="views/YAMLView.js"/>
                 <file name="views/MobileView.js"/>
                 <file name="views/LayoutView.js"/>
@@ -267,6 +269,7 @@
                 <file name="Alpaca.js"/>
                 <file name="views/DefaultView.js"/>
                 <file name="views/ListView.js"/>
+				<file name="views/InlineView.js"/>
         	<file name="views/YAMLView.js"/>
                 <file name="views/MobileView.js"/>
                 <file name="views/LayoutView.js"/>
